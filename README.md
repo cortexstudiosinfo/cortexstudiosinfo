@@ -1,7 +1,6 @@
 # Simulation & Tools Developer
 
 ![ETS2](https://img.shields.io/badge/Euro%20Truck%20Simulator%202-Developer-blue?style=for-the-badge)
-![Rocket League](https://img.shields.io/badge/Rocket%20League-Developer-orange?style=for-the-badge)
 
 ---
 
@@ -18,7 +17,6 @@ I mainly work on creating functional software solutions to improve the experienc
 Specialized in:
 
 - Euro Truck Simulator 2 (ETS2)
-- Rocket League
 
 ---
 

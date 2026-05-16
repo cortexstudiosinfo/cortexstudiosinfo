@@ -8,7 +8,7 @@
 
 Developer focused on building tools, automation systems, and scripts related to video games and simulation environments.
 
-I mainly work on creating functional software solutions to improve the experience in games such as Euro Truck Simulator 2 and Rocket League, combining efficiency, optimization, and clean software design.
+I mainly work on creating functional software solutions to improve the experience in games such as Euro Truck Simulator 2, combining efficiency, optimization, and clean software design.
 
 ---
 
